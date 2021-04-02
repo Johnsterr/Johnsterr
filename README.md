@@ -2,7 +2,7 @@
 
 **Welcome to my Github profile ! 😃** <br/>
 
-- 🔭 I’m currently working on Medium Clone
+- 🔭 I’m currently working on [Medium Clone](https://github.com/Johnsterr/jedium)
 - 🌱 I’m currently learning: JavaScript, Vue JS, Swift
 
 **Some links to learn more about me or to contact me :**
