@@ -39,6 +39,8 @@ I'm a self-taught, full-stack developer with a love for Vue. Currently living in
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnsterr&count_private=true&theme=gruvbox&show_icons=true&hide=html,css&layout=compact&card_width=270" alt="Evgeniy Pashko's Most Used GitHub Languages" />
 </a>
 
+---
+
 ### Secondary Profile
 
 <img alt="Swift" src="https://img.shields.io/badge/SWIFT-%23F05138.svg?style=flat&logo=swift&logoColor=F05138&labelColor=white"/> project can be found on [Gitlab](https://gitlab.com/Sterr/Sterr).
