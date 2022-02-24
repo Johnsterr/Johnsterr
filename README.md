@@ -32,11 +32,15 @@ I'm a self-taught, full-stack developer with a love for Vue. Currently living in
 
 ### 📈 GitHub Stats
 
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Johnsterr)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Johnsterr)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/Johnsterr)](https://badges.pufler.dev)
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Johnsterr&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=gruvbox" alt="Evgeniy Pashko's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Johnsterr&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=gruvbox" alt="Evgeniy Pashko's Github Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnsterr&count_private=true&theme=gruvbox&show_icons=true&hide=html,css&layout=compact&card_width=270" alt="Evgeniy Pashko's Most Used GitHub Languages" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnsterr&count_private=true&theme=gruvbox&show_icons=true&hide=html,css&layout=compact&card_width=270" alt="Evgeniy Pashko's Most Used GitHub Languages" />
 </a>
 
 ---
