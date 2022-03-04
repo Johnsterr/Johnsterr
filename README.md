@@ -21,14 +21,14 @@ I'm a self-taught, full-stack developer with a love for Vue. Currently living in
 
 ### 📄 Global goals:
 
-- Learn React, React-Router, Redux
+- Learn React ✅, React-Router ✅, Redux
 - Learn Next.js
 - Learn TypeScript
 - Learn Symphony or Laravel
 
 ### 📑 Current goals:
 
-- Learning React <br> <a href="https://github.com/Johnsterr/React-Fundamentals"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Johnsterr&repo=React-Fundamentals&theme=react" alt="React-Fundamentals" /></a>
+- Creating Forum <br> <a href="https://github.com/Johnsterr/Vue2-Forum"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Johnsterr&repo=Vue2-Forum&theme=vue" alt="Vue2 Forum" /></a>
 
 ### 📈 GitHub Stats
 
@@ -47,7 +47,7 @@ I'm a self-taught, full-stack developer with a love for Vue. Currently living in
 
 ### Secondary Profile
 
-<img alt="Swift" src="https://img.shields.io/badge/SWIFT-%23F05138.svg?style=flat&logo=swift&logoColor=F05138&labelColor=white"/> project can be found on [Gitlab](https://gitlab.com/Sterr/Sterr).
+<img alt="Swift" src="https://img.shields.io/badge/SWIFT-%23F05138.svg?style=flat&logo=swift&logoColor=F05138&labelColor=white"/> projects can be found on [Gitlab](https://gitlab.com/Sterr/Sterr).
 
 <!--
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
