@@ -43,7 +43,9 @@ I'm a self-taught, full-stack developer with a love for Vue. Currently living in
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnsterr&count_private=true&theme=gruvbox&show_icons=true&hide=html,css&layout=compact&card_width=270" alt="Evgeniy Pashko's Most Used GitHub Languages" />
 </a>
 
----
+<!-- <a href="https://git.io/streak-stats">
+<img align="top" src="http://github-readme-streak-stats.herokuapp.com?user=Johnsterr&theme=gruvbox&date_format=j%20M%5B%20Y%5D" alt="Evgeniy Pashko's Most Used GitHub Languages" />
+</a> -->
 
 ### Secondary Profile
 
