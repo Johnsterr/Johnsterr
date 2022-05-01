@@ -28,7 +28,10 @@ I'm a self-taught, full-stack developer with a love for Vue. Currently living in
 
 ### 📑 Current goals:
 
-- Creating Forum <br> <a href="https://github.com/Johnsterr/Vue2-Forum"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Johnsterr&repo=Vue2-Forum&theme=vue" alt="Vue2 Forum" /></a>
+- Learning Redux <br>
+
+<!-- Example Link -->
+<!-- <a href="https://github.com/Johnsterr/Vue2-Forum"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Johnsterr&repo=Vue2-Forum&theme=vue" alt="Vue2 Forum" /></a> -->
 
 ### 📈 GitHub Stats
 
@@ -45,6 +48,7 @@ I'm a self-taught, full-stack developer with a love for Vue. Currently living in
 
 ---
 
+<!-- Example Link -->
 <!-- <a href="https://git.io/streak-stats">
 <img align="top" src="http://github-readme-streak-stats.herokuapp.com?user=Johnsterr&theme=gruvbox&date_format=j%20M%5B%20Y%5D" alt="Evgeniy Pashko's Most Used GitHub Languages" />
 </a> -->
