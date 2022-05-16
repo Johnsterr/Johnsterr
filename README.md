@@ -21,14 +21,14 @@ I'm a self-taught, full-stack developer with a love for Vue. Currently living in
 
 ### 📄 Global goals:
 
-- Learn React ✅, React-Router ✅, Redux
+- Learn React ✅, React-Router ✅, Redux ✅
 - Learn Next.js
 - Learn TypeScript
 - Learn Symphony or Laravel
 
 ### 📑 Current goals:
 
-- Learning Redux <br>
+- Learning Next.js <br>
 
 <!-- Example Link -->
 <!-- <a href="https://github.com/Johnsterr/Vue2-Forum"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Johnsterr&repo=Vue2-Forum&theme=vue" alt="Vue2 Forum" /></a> -->
