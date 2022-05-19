@@ -9,6 +9,7 @@ I'm a self-taught, full-stack developer with a love for Vue. Currently living in
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
 <img alt="PHP" src="https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=%23777BB4"/>&nbsp;
 <img alt="NodeJS" src="https://img.shields.io/badge/NODE.JS-%23333333.svg?style=for-the-badge&logo=node.js"/>&nbsp;
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp;
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>&nbsp;
 <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=%2300DC82"/>&nbsp;
 <img alt="Bitrix" src="https://img.shields.io/badge/bitrix-%23C60C30.svg?style=for-the-badge&logo=bitrix&logoColor=white"/>&nbsp;
@@ -21,7 +22,6 @@ I'm a self-taught, full-stack developer with a love for Vue. Currently living in
 
 ### 📄 Global goals:
 
-- Learn React ✅, React-Router ✅, Redux ✅
 - Learn Next.js
 - Learn TypeScript
 - Learn Symphony or Laravel
