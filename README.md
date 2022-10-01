@@ -35,10 +35,6 @@ I'm a self-taught, full-stack developer with a love for Vue. Currently living in
 
 ### 📈 GitHub Stats
 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Johnsterr)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Johnsterr)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/Johnsterr)](https://badges.pufler.dev)
-<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Johnsterr&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=gruvbox" alt="Evgeniy Pashko's Github Stats" />
 </a>
