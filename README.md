@@ -1,8 +1,8 @@
-## Hey everyone, I'm Evgeniy 👋!
+## Hey 👋!
 
-I'm a self-taught, full-stack developer with a love for Vue. Currently living in Novokuznetsk.
+I'm a fullstack web-developer.
 
-### 🧰 Langs & Technologies
+## 🧰 Langs & Technologies
 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
@@ -19,16 +19,6 @@ I'm a self-taught, full-stack developer with a love for Vue. Currently living in
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>&nbsp;
-
-### 📄 Global goals:
-
-- Learn Next.js
-- Learn TypeScript
-- Learn Symphony or Laravel
-
-### 📑 Current goals:
-
-- Learning Next.js <br>
 
 <!-- Example Link -->
 <!-- <a href="https://github.com/Johnsterr/Vue2-Forum"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Johnsterr&repo=Vue2-Forum&theme=vue" alt="Vue2 Forum" /></a> -->
